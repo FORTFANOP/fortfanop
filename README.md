@@ -6,6 +6,10 @@ I like:
 3) Coding
 4) Machine Learning
 
+## Daytime:
+Bored High School Student
+
+
 <!--
 **FORTFANOP/fortfanop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
