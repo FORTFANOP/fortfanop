@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on awesome AI projects
-- 🌱 I’m currently trying to learn Machine Learning, AI, and Deep Learning
+- 🌱 I’m currently learning Machine Learning, AI, and Deep Learning
 <!--- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about Python, Arduino, Electronics
