@@ -1,12 +1,10 @@
 ### Hi there 👋
-I'm a tech hobbyist.
+I'm a tech hobbyist and BTech Student.
 I like:
-1) Electronics
-2) Python
-3) Coding
-4) Machine Learning
+1) Electronics/Robotics
+2) AI/ML
+3) Aviation (all machines that fly)
 
-I'm a bored high school student looking for ways to fabricate new **awesome** projects.
 
 # " Think.  Innovate.  Fabricate. " #
 
@@ -16,11 +14,11 @@ I'm a bored high school student looking for ways to fabricate new **awesome** pr
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on awesome AI projects
-- 🌱 I’m currently learning Machine Learning, AI, and Deep Learning
+- 🔭 I’m currently working on improving my skillset
+- 🌱 I’m currently attempting to learn AI/ML and Robotics
 <!--- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... -->
-- 💬 Ask me about Python, Arduino, Electronics
+<!--- 💬 Ask me about Python, Arduino, Electronics-->
 - 📫 How to reach me: Open a Github issue to contact me.
 <!--- 😄 Pronouns: ...-->
 <!--- ⚡ Fun fact: -->
