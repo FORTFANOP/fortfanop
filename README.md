@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on improving my skillset
 - 🌱 I’m currently attempting to learn AI/ML and Robotics
+- 📫 How to reach me: Open a Github issue to contact me.
 <!--- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... -->
 <!--- 💬 Ask me about Python, Arduino, Electronics-->
-- 📫 How to reach me: Open a Github issue to contact me.
+
 <!--- 😄 Pronouns: ...-->
 <!--- ⚡ Fun fact: -->
