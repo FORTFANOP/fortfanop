@@ -1,9 +1,5 @@
 ### Hi there 👋
-I'm a tech hobbyist and BTech Student.
-I like:
-1) Electronics/Robotics
-2) AI/ML
-3) Aviation (all machines that fly)
+I'm a BTech Student and am deeply passionate about robotics, machine leanring and technology in general.
 
 
 # " Think.  Innovate.  Fabricate. " #
@@ -16,7 +12,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on improving my skillset
 - 🌱 I’m currently attempting to learn AI/ML and Robotics
-- 📫 How to reach me: Open a Github issue to contact me.
+- 📫 How to reach me: joelm24@iitk.ac.in
 <!--- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... -->
 <!--- 💬 Ask me about Python, Arduino, Electronics-->
