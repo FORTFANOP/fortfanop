@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a BTech Student and am deeply passionate about robotics, machine leanring and technology in general.
+I'm a BTech Student and am deeply passionate about robotics, machine learning and technology in general.
 
 
 # " Think.  Innovate.  Fabricate. " #
